@@ -6,6 +6,7 @@
    <body>
       <center>
          <h1>Display Current Date & Time</h1>
+         <h2> This is the change! </h2>
       </center>
       <%
          Date date = new Date();
